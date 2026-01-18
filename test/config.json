@@ -1,0 +1,9 @@
+{
+  "apikey": "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",
+  "api": "https://openrouter.ai/api/v1/chat/completions",
+  "model_old": "deepseek/deepseek-r1-0528:free",
+  "model": "tngtech/deepseek-r1t-chimera:free",
+  "model2": "qwen/qwen3-coder:free",
+  "zhipu_api_key": "ac747ddfe817e9a40475bc97a3b864f2.D0Nbvh2JxiOEMvvx",
+  "save_dir": "/sdcard/诺玛/recordings"
+}
