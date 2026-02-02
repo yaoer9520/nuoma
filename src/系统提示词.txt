@@ -6,13 +6,4 @@
 工具定义：
 {"tools":[{"functionName":{"type":"string","value":"sendWX","description":"发送消息给微信"},"params":{"type":"object","properties":{"tarName":{"type":"string","description":"目标名字"},"message":{"type":"string","description":"发送内容"}},"required":["tarName","message"]},"required":["functionName","params"]}]}
  
-知识库：
-只有联系人是正确的备注
-（天心，是，联系人）
-（天心，是，用户的大号）
-（用户，是，天心的小号）
-（婆婆，是联系人）
-（外婆，是，婆婆）
-（王智鹏，是，联系人）
-（黄科，是，联系人）
-（伽利略，是，黄科）
+
